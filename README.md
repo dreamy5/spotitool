@@ -2,8 +2,6 @@
 
 Spotify tool with lots of features, as example: streaming, liker, generator
 
-# Leave a star if you want more updates <3
-
 # The best one on the market
 
 ![image](https://github.com/dreamy5/spotitool/assets/76620676/ac823ade-6412-486f-ae9f-cf3046904e1d)
@@ -14,6 +12,8 @@ Download the file
 Open SpotiTool.exe
 Scrape for Proxies (option 4)
 Enjoy!
+
+# Leave a star if you want more updates <3
 
 # Disclaimer
 
